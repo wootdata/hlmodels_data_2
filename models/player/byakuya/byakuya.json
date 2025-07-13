@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1276461912,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c8e36f696e1212d0b0c0499d93642b61",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Program Files (x86)\\Counter-Strike 1.6 V40\\valve\\models\\playe|",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -78,6 +78,7 @@
 			"name": "mrbond123"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -112,6 +113,7 @@
 			"type": 8
 		}
 	],
+	"date": 1351718476,
 	"events": [
 		{
 			"event": 2001,
@@ -221,7 +223,11 @@
 	],
 	"id": 1414743113,
 	"md5": "48d9cfd0caa0620e763f802255ada6c8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Gina.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

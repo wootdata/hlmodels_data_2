@@ -43,6 +43,7 @@
 			"name": "bomb_defuser"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 963359742,
 	"events": [
 		{
 			"event": 2001,
@@ -312,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cd3a603d9b77d03e30499970fa8f82d2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\CSmodels\\Pak2\\KazeXtreme\\kazextreme.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

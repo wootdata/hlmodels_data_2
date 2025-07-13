@@ -22,7 +22,9 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
+	"date": 1601170452,
 	"events": [
 		{
 			"event": 2001,
@@ -132,7 +134,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bcd6937d2a111aad79f31b6e792fcabb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\luther7\\luther7.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

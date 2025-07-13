@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 41,
@@ -85,6 +86,7 @@
 			"type": 8
 		}
 	],
+	"date": 1723353258,
 	"events": [
 		{
 			"event": 2001,
@@ -194,7 +196,11 @@
 	],
 	"id": 1414743113,
 	"md5": "46b9cc6d0cb1e51dc6e080614d124451",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
