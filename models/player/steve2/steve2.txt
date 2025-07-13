@@ -1,0 +1,26 @@
+Steve2 -  Half-Life character  -  steve2.txt
+January 17, 2002
+
+--------------------------------
+
+Character Stats:
+polys		626
+verts		261
+texture		256x256(x2)
+chrome		NO
+animation	Valve standard
+
+--------------------------------
+
+Character Info:
+Psycho Steve, as dubbed by his peers, is a mild-mannered 17 year old coffee addict.  He is my original creation, used as my MercWorks mascot and who starred in his own now-dead mod.  Although he was released once before, he was my first model ever and therefore quite unrefined, so I am rereleasing him now as a completely new model.
+
+--------------------------------
+
+Other Stuff:
+Also included in this zip are three spray logos: the MercWorks logo (mercworkslogo.bmp), the Psycho Steve logo (stevelogo.bmp), and the Eugene the crazed hippie logo (eugenelogo.bmp).  Place these in your Half-Life/logos directory for use in-game.
+
+--------------------------------
+David "MercWorks" Mercier
+david@mercworks.net
+http://www.mercworks.net (http://mercworks.oliveri.net)
