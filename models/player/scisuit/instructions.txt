@@ -1,0 +1,3 @@
+Thank you for download the Scientist Suit Model enjoy!
+
+Extract into valve\models\player\scisuit\  in the Hl dir!

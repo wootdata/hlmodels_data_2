@@ -1,0 +1,53 @@
+   =======================================
+   I.Am/PCGames Submitted File Information
+   =======================================
+   Please use this form for ALL files sent
+   half-life.pcgame.com  -  tfc.pcgame.com
+   q3a.pcgame.com   -   kingpin.pcgame.com
+   ---------------------------------------
+
+GAME: 
+-----     
+     [*] Half-Life                (http://half-life.pcgame.com)
+     [ ] Team Fortress Classic    (http://tfc.pcgame.com)
+     [ ] Kingpin                  (http://kingpin.pcgame.com)
+     [ ] Quake3:Arena             (http://q3a.pcgame.com)
+
+TYPE of FILE:
+-------------
+     
+     MODELS    (also fill out ADDITIONAL INFO below)
+          [ ] Model (completely new 3d-model, not just a new skin)
+          [*] Skin based on Gman Model
+  
+===========================
+ Additional Information
+===========================
+
+--- DEMO, MAP, or MODEL General Information ------
+Date                     : 24th August 1999
+Author                   : D1|Arbitrator, D1|Dr. Evil & D1|Morpheus
+Title                    : Matrix agent
+Zip Filename             : Agent.ZIP
+BSP/DEM/MDL Filename     : Agent.MDL
+Other works by author    : None but more soon to come
+Email address            : myers_stuart@hotmail.com (D1|Arbitrator)
+Home page /  Website     : http://members.xoom.com/ClanDEFCON1
+Additional Credits to    :
+
+--- DEMO, MAP, or MODEL Additional Info------------------------
+
+This Model is based on an agent from the movie 'The Matrix' which
+is my favourite film. it is based on the Gman model with an edited
+skin, we made the face darker, changed the suit to be black and white
+and made the whole tie - instead of the pin, able to change colour.
+In addition we put sunglasses and an earpiece on him.
+
+--- DEMO, MAP, or MODEL Copyright-Permissions------------------
+
+You may only use this skin for private use only, you may distribute
+it on any form to other people for free. if there is a charge involved
+(i.e. put on a C.D) please contact me and we can arrange something.
+You may not use this skin as a clan skin either, as it is DEFCON 1's
+clan skin. That doesn't stop you from using this skin as a base to build
+other skins on, as long as you tell me and give me credit.

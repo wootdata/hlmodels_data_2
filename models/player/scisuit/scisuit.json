@@ -20,14 +20,14 @@
 		{
 			"models": [
 				{
-					"name": "../dmatch/scientist/DM_Scientist_Biped1",
-					"polys": 380,
-					"verts": 203
+					"name": "../dmatch/gordon/DM_Gordon_Head1",
+					"polys": 362,
+					"verts": 183
 				}, 
 				{
-					"name": "../dmatch/scientist/DM_ScienceBiped1",
-					"polys": 710,
-					"verts": 369
+					"name": "../dmatch/gordon/Gordon_Hi-ResDM1",
+					"polys": 639,
+					"verts": 343
 				}
 			],
 			"name": "body"
@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 913246596,
+	"date": 910288590,
 	"events": [
 		{
 			"event": 2001,
@@ -177,12 +177,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "0b27b9a78059022032a581e2a772434b",
+	"md5": "4319aa4b73267abd21cd3909b642784a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "player/Scientist/Scientist.mdl",
+	"name": "player/Gordon/Gordon.mdl",
 	"preview": true,
-	"readme": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -571,7 +571,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 329592,
+	"size": 351852,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -684,6 +684,62 @@
 		{
 			"name": "Bip01 R Finger12",
 			"parent": 26
+		}, 
+		{
+			"name": "Dummy08",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 28
+		}, 
+		{
+			"name": "Dummy04",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone05",
+			"parent": 30
+		}, 
+		{
+			"name": "Dummy03",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone07",
+			"parent": 32
+		}, 
+		{
+			"name": "Dummy10",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone13",
+			"parent": 34
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 36
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 37
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 39
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 40
 		}
 	],
 	"skins": 1,
@@ -697,9 +753,9 @@
 		}, 
 		{
 			"flags": 0,
-			"height": 128,
+			"height": 100,
 			"name": "DM_Face.bmp",
-			"width": 128
+			"width": 120
 		}
 	],
 	"version": 10
