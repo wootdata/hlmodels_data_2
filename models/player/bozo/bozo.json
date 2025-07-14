@@ -180,6 +180,7 @@
 	"md5": "0c02b8f80e140d102fee3fd3d23e9636",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/bozo/bozo.mdl",
 	"preview": true,
 	"readme": false,

@@ -175,6 +175,7 @@
 	"md5": "41df5b0a414fc7dff7d2a14f66d94d3a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/nono/nono.mdl",
 	"preview": true,
 	"readme": false,

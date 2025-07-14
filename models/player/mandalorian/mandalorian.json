@@ -175,6 +175,7 @@
 	"md5": "463da6e9f7a3b1218a43d0d5cc7a98b9",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/fett/fett.mdl",
 	"preview": true,
 	"readme": false,

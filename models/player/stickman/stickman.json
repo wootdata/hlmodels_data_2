@@ -175,6 +175,7 @@
 	"md5": "e23d94a353f6e2dd2c646d822f5b4c91",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Stickman/Stickman.mdl",
 	"preview": true,
 	"readme": false,

@@ -175,6 +175,7 @@
 	"md5": "55dfc520f1a3cf4954f850c46107942a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/gundam/gundam.mdl",
 	"preview": true,
 	"readme": false,

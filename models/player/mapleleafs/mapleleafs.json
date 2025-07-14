@@ -175,6 +175,7 @@
 	"md5": "3fe368d1631f5e33957d062b40451721",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Turgeon/Turgeon.mdl",
 	"preview": true,
 	"readme": true,

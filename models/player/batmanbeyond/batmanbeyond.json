@@ -175,6 +175,7 @@
 	"md5": "6c4a2d1dfaa1041bbb060a7c28ab60a1",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/batmanbeyond/batmanbeyond.mdl",
 	"preview": true,
 	"readme": false,

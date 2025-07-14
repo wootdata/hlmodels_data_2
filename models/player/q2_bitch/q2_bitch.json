@@ -175,6 +175,7 @@
 	"md5": "42bc4a1819bf3dc6a896dd0b4017a981",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/Gordon/Gordon.mdl",
 	"preview": true,
 	"readme": true,
