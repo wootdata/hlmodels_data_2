@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : guerilla16
+Source Model Hash : 8d89ba2abf013dda264e457d85c3b72a
+Source Model Date : 1230341708 (2008/12/26)
+
+Ported Model Name : guerilla16_v1sc
+Ported Model Hash : a386dfc24cde45bf363e1a7e9b02cec5
+Ported Model Date : 1752491754 (2025/07/14)

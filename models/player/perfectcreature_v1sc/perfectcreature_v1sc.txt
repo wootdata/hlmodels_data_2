@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : theperfectcreature
+Source Model Hash : 4ffe0af71281675669b4d2c3bf445f30
+Source Model Date : 1586037187 (2020/04/04)
+
+Ported Model Name : perfectcreature_v1sc
+Ported Model Hash : d494eba216431c0d2e82f06ec64ca999
+Ported Model Date : 1752492410 (2025/07/14)

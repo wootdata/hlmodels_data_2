@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mrt_v2
+Source Model Hash : 1ae1cc7ad9b97d9e16b3e935fbae2f8f
+Source Model Date : 1583456675 (2020/03/05)
+
+Ported Model Name : mrt_v2sc
+Ported Model Hash : 191fe7e477152abd8f8d7a87b55f77fa
+Ported Model Date : 1752492046 (2025/07/14)

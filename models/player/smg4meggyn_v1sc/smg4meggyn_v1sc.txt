@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : smg4meggyn
+Source Model Hash : 100c9cb3e38521a17bfd1317423cedea
+Source Model Date : 1638867074 (2021/12/07)
+
+Ported Model Name : smg4meggyn_v1sc
+Ported Model Hash : 74b8517fb507f771c883077fa8cf6e1a
+Ported Model Date : 1752492283 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : xy_meowsticm_v2
+Source Model Hash : 9736c7356987e16c46b47f1d3787e461
+Source Model Date : 1589477138 (2020/05/14)
+
+Ported Model Name : xy_meowsticm_v2sc
+Ported Model Hash : 810df921552dd6a5bcb7f7646e9f7335
+Ported Model Date : 1752492519 (2025/07/14)

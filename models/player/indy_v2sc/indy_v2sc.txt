@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : indy_v2
+Source Model Hash : 6a9d7e5303cd416c3c236b343e0cf0fe
+Source Model Date : 1583274603 (2020/03/03)
+
+Ported Model Name : indy_v2sc
+Ported Model Hash : 730b16c9a874337f79aeb21e861d3f65
+Ported Model Date : 1752491844 (2025/07/14)

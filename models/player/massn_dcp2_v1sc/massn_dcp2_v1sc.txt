@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : massn_dcp2
+Source Model Hash : 0ecc5723d83b7408debff34f0a5b422d
+Source Model Date : 1604438510 (2020/11/03)
+
+Ported Model Name : massn_dcp2_v1sc
+Ported Model Hash : 595a2e4c9a46eab19d88ec99076a3729
+Ported Model Date : 1752491991 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : halo_dion
+Source Model Hash : 2e8558801c3463ea5320120c0f9b0046
+Source Model Date : 1236700304 (2009/03/10)
+
+Ported Model Name : halo_dion_v1sc
+Ported Model Hash : b1b191e24b4bdcd8f8d05d859e810fe0
+Ported Model Date : 1752491765 (2025/07/14)

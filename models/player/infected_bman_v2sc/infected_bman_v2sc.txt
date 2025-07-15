@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : infected_bman_v2
+Source Model Hash : 841687ecc0b777d43e51d79b96406275
+Source Model Date : 1583274651 (2020/03/03)
+
+Ported Model Name : infected_bman_v2sc
+Ported Model Hash : 2099cb739e2835c3760cbd65600391b3
+Ported Model Date : 1752491844 (2025/07/14)

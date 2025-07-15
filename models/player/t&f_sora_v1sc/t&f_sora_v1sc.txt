@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : t&f_sora
+Source Model Hash : eabc093409b6a54dc460159de161ad58
+Source Model Date : 1742520270 (2025/03/20)
+
+Ported Model Name : t&f_sora_v1sc
+Ported Model Hash : ca2fc8c36403f53c85d52a5f19cb5a43
+Ported Model Date : 1752492357 (2025/07/14)

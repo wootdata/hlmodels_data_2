@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gs_ethel_fairyf
+Source Model Hash : 8548ad34bb6c1472ca413f4c3db0c7d1
+Source Model Date : 1489182120 (2017/03/10)
+
+Ported Model Name : gs_ethel_fairyf_v1sc
+Ported Model Hash : afcb244a98cb2268eb66852aceb99a3e
+Ported Model Date : 1752491746 (2025/07/14)

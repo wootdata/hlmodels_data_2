@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ibsniper
+Source Model Hash : 44f5f6522a54a828ed573661d5b6f9dd
+Source Model Date : 1269324939 (2010/03/22)
+
+Ported Model Name : ibsniper_v1sc
+Ported Model Hash : a801fb4979095ecb869a5e8672403baa
+Ported Model Date : 1752491842 (2025/07/14)

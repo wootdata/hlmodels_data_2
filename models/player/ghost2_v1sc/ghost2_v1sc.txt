@@ -1,0 +1,39 @@
+August 2, 2011  Ghost Skin by Demasturbot
+
+
+The model is transparent, set brightness to 0.7 for better perfomance.
+Feel free to contact me: valerique9@gmail.com
+
+
+INSTALL:
+Place ghost.mdl, ghost.bmp and ghost.txt in a new folder
+called ghost in valve\models\player folder in your Half-Life
+directory.
+
+
+CREDITS:
+The initial mesh was taken from the Ghost Controller (HL monster)
+model by some unknown author.
+
+Special thanks to Tifarga for the transparency idea.
+
+** IMPORTANT NOTICE **
+This model SHOULD BE distributed in any kind of commercial
+compilation, product or package without my personal approval.
+You can also extract the skin and draw a mustache and release it
+to the world as yours.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ghost2
+Source Model Hash : fc952b9d073833f55451329566773ef4
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : ghost2_v1sc
+Ported Model Hash : c85d4f35e9f3cb1e8a967e388ea2af31
+Ported Model Date : 1752491698 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dimachaerius
+Source Model Hash : 1cd7d9792f39d6892c346780cebf25d3
+Source Model Date : 1266938308 (2010/02/23)
+
+Ported Model Name : dimachaerius_v1sc
+Ported Model Hash : f8ca1ff086011f8725b467e6a2712ce3
+Ported Model Date : 1752491598 (2025/07/14)

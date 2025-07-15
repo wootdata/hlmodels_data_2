@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : op4_robot
+Source Model Hash : 4899b4ab0e907084cd32a2cfe2f52be4
+Source Model Date : 1579695595 (2020/01/22)
+
+Ported Model Name : op4_robot_v1sc
+Ported Model Hash : 04b2e35d6e26f5e7ef61fb57e6ca384b
+Ported Model Date : 1752492123 (2025/07/14)

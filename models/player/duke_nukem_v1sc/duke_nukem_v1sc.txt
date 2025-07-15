@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : duke_nukem
+Source Model Hash : 5d75825a300b10e3d08f81e697fad26d
+Source Model Date : 1478177422 (2016/11/03)
+
+Ported Model Name : duke_nukem_v1sc
+Ported Model Hash : 14eb59cd593b1541d5765fe490abc8e1
+Ported Model Date : 1752491625 (2025/07/14)

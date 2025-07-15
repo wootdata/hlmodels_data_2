@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tsmod_seal
+Source Model Hash : 6a70711df665d03d9e464e00945e5573
+Source Model Date : 1736149160 (2025/01/05)
+
+Ported Model Name : tsmod_seal_v1sc
+Ported Model Hash : c998ce4eb514a03d0aa3b5774cabfaf3
+Ported Model Date : 1752492463 (2025/07/14)

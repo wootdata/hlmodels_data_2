@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ioaf_denti
+Source Model Hash : 328cfeb43f7965878dbf370246e1abb3
+Source Model Date : 1458847000 (2016/03/24)
+
+Ported Model Name : ioaf_denti_v1sc
+Ported Model Hash : 9a16e8d9220c5353a93cb7d67621e55d
+Ported Model Date : 1752491847 (2025/07/14)

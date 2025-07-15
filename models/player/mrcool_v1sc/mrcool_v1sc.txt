@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mrcool
+Source Model Hash : b0a8d7e32388c00a249b1821ddfecfeb
+Source Model Date : 1429711775 (2015/04/22)
+
+Ported Model Name : mrcool_v1sc
+Ported Model Hash : a775fbf4b01edc935870767cf0ad05a8
+Ported Model Date : 1752492045 (2025/07/14)

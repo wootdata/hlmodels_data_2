@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hinchaisraelita
+Source Model Hash : c32a005725ef954aa7886c450c170e3a
+Source Model Date : 1660855476 (2022/08/18)
+
+Ported Model Name : hinchaisraelita_v1sc
+Ported Model Hash : e508ce3ec43ad46920ceec7f7c754729
+Ported Model Date : 1752491796 (2025/07/14)

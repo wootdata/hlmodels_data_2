@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : carlosezeta
+Source Model Hash : f587e238842d828555f5ba2cb9a133ea
+Source Model Date : 1709500247 (2024/03/03)
+
+Ported Model Name : carlosezeta_v1sc
+Ported Model Hash : baebf92fe7917b2781d4815efac59135
+Ported Model Date : 1752491463 (2025/07/14)

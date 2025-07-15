@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : srs_denzell
+Source Model Hash : e4c3d0b0820b721fd22323a0f38c3db7
+Source Model Date : 1745719333 (2025/04/26)
+
+Ported Model Name : srs_denzell_v1sc
+Ported Model Hash : ba0cceaa5f3b91254239d0707279a589
+Ported Model Date : 1752492318 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mariosmall
+Source Model Hash : cb9e64e12a7c6242cad00509427c5d7f
+Source Model Date : 1636010226 (2021/11/04)
+
+Ported Model Name : mariosmall_v1sc
+Ported Model Hash : b7bc16b416a01d61a17adacbeee867f5
+Ported Model Date : 1752491987 (2025/07/14)

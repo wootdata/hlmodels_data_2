@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nato-lapd
+Source Model Hash : 336e86b3f3cbb959b4ddcde1b9ed194b
+Source Model Date : 1265565446 (2010/02/07)
+
+Ported Model Name : nato-lapd_v1sc
+Ported Model Hash : 9914580d64c28c5c7474213ababde870
+Ported Model Date : 1752492072 (2025/07/14)

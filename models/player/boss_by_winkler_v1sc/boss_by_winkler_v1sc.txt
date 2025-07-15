@@ -1,0 +1,17 @@
+made_by_winkler
+The Specialists mod
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : boss_by_winkler
+Source Model Hash : 978b4b87ceae5f6f6b79529d740e57ec
+Source Model Date : 1466428612 (2016/06/20)
+
+Ported Model Name : boss_by_winkler_v1sc
+Ported Model Hash : 284647e197c0c04ffee78cab50689fd9
+Ported Model Date : 1752491445 (2025/07/14)

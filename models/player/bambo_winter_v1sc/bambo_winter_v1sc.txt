@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bambo_winter
+Source Model Hash : d6ff5f419ac2b3fb0c4b3ca92cf0ac66
+Source Model Date : 1586571418 (2020/04/10)
+
+Ported Model Name : bambo_winter_v1sc
+Ported Model Hash : fb6c549d3cf28cb7952e983f1191511c
+Ported Model Date : 1752491399 (2025/07/14)

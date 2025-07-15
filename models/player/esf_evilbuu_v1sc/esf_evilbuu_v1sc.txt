@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : esf_evilbuu
+Source Model Hash : 4893e8c477c3cf0822740421f64e967d
+Source Model Date : 1426947919 (2015/03/21)
+
+Ported Model Name : esf_evilbuu_v1sc
+Ported Model Hash : b82f41beafe69d9541f019b7d83b23ff
+Ported Model Date : 1752491637 (2025/07/14)

@@ -1,0 +1,43 @@
+11-18-2000
+
+================================================================
+Construction Time       : Few hours
+
+Model Used              : batman Punisher       
+
+Skin description        : Frost coverd bat suit.
+
+Email Address           :snakeplisskin@ix.netcom.com
+
+ICQ #                   :1851959
+
+Author  Rob Everhart    :Aka SonicGlyph Aka [-*db*-]Brolli
+
+Skins on won            :MuscleBase....FrostBatman....NavySeal
+
+More Skins to follow    :
+
+If you would like a skin made or a model edited email me @ address above...
+
+================================================================
+
+I would like to thank Brian "EvilBastard" Collins for making the Punisher model.Great job by the way.
+
+
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : frostbatman_v2
+Source Model Hash : 70158743c72342c5bc548e30d7503744
+Source Model Date : 1590731123 (2020/05/28)
+
+Ported Model Name : frostbatman_v2sc
+Ported Model Hash : 4947ebcbde8c43d3b95bd9caf093c976
+Ported Model Date : 1752491662 (2025/07/14)

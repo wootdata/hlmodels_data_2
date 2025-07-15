@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : halooneblue
+Source Model Hash : 80699609e00c6ae19867d5a375566a57
+Source Model Date : 1236707296 (2009/03/10)
+
+Ported Model Name : halooneblue_v1sc
+Ported Model Hash : caeb4e13311f5c55f218d1187dd5976f
+Ported Model Date : 1752491763 (2025/07/14)

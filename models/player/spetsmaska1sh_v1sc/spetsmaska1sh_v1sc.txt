@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spetsmaska1sh
+Source Model Hash : 1d8d6cc33bec2b14a3bb5ac40f776c02
+Source Model Date : 1523733873 (2018/04/14)
+
+Ported Model Name : spetsmaska1sh_v1sc
+Ported Model Hash : beedf52e05301845fb6292f379729778
+Ported Model Date : 1752492308 (2025/07/14)

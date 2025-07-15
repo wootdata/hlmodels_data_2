@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : magnus
+Source Model Hash : 1eb736d5924477e23e0f8efe5aaf6145
+Source Model Date : 1266052733 (2010/02/13)
+
+Ported Model Name : magnus_v1sc
+Ported Model Hash : fcf2b18369d9c01569e5dedda24d8450
+Ported Model Date : 1752491982 (2025/07/14)

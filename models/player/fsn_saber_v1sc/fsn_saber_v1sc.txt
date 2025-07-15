@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fsn_saber
+Source Model Hash : 21ed20a75663c2b4a57ebeea4ea39d36
+Source Model Date : 1429717070 (2015/04/22)
+
+Ported Model Name : fsn_saber_v1sc
+Ported Model Hash : e47fef460312c08439bf65fda4027e02
+Ported Model Date : 1752491662 (2025/07/14)

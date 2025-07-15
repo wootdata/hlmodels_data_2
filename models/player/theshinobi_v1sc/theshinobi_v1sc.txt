@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : theshinobi
+Source Model Hash : 09fee3371d0b67607efc8fb8bf2822c5
+Source Model Date : 1267353149 (2010/02/28)
+
+Ported Model Name : theshinobi_v1sc
+Ported Model Hash : 2784defb61feee55a17d1b80fa7b634a
+Ported Model Date : 1752492411 (2025/07/14)

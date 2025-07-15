@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : scp_173
+Source Model Hash : 9658bf1bd3c52e9e54c00baf0a270591
+Source Model Date : 1597843781 (2020/08/19)
+
+Ported Model Name : scp_173_v1sc
+Ported Model Hash : 47af3ba5e80ad86d5edf1bb3019e16dd
+Ported Model Date : 1752492249 (2025/07/14)

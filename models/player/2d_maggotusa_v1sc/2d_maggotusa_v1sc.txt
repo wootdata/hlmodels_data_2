@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_maggotusa
+Source Model Hash : eb72dcd1ca7ebc6755236e90556ec113
+Source Model Date : 1553587212 (2019/03/26)
+
+Ported Model Name : 2d_maggotusa_v1sc
+Ported Model Hash : a3116773e561e13741f751444e4c204d
+Ported Model Date : 1752491315 (2025/07/14)

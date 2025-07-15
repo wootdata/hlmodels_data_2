@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_flanker
+Source Model Hash : ba58120e99c88e570b98eec8945b9346
+Source Model Date : 1579696443 (2020/01/22)
+
+Ported Model Name : ta_flanker_v1sc
+Ported Model Hash : a4b870dce4766c6ab1ec6372f2774256
+Ported Model Date : 1752492390 (2025/07/14)

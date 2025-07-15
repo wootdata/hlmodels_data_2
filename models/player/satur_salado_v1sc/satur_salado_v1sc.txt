@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : satur_salado
+Source Model Hash : 3fb36e1e8f7d73db1581755481c0f4ab
+Source Model Date : 1511019032 (2017/11/18)
+
+Ported Model Name : satur_salado_v1sc
+Ported Model Hash : e54eb627cb15e21a1e5b41b72578b60d
+Ported Model Date : 1752492239 (2025/07/14)

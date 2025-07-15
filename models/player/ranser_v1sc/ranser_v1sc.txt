@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ranser
+Source Model Hash : 6ac49e06f0889d466bf42ae3f207efb0
+Source Model Date : 1496689622 (2017/06/05)
+
+Ported Model Name : ranser_v1sc
+Ported Model Hash : a93bdfae19daffd736c643d99a4b73a0
+Ported Model Date : 1752492187 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : esf_cell3_v2
+Source Model Hash : 5dd7bcc380ce0baf0d36b64a6eef21aa
+Source Model Date : 1583831238 (2020/03/10)
+
+Ported Model Name : esf_cell3_v2sc
+Ported Model Hash : a2086ba03f7998fb5cecd4a672345b95
+Ported Model Date : 1752491637 (2025/07/14)

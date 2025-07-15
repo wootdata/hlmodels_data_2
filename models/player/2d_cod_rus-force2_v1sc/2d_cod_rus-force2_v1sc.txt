@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_cod_rus-force2
+Source Model Hash : 2330cf8ca7407cc15a6bce9352fbbb3d
+Source Model Date : 1553697398 (2019/03/27)
+
+Ported Model Name : 2d_cod_rus-force2_v1sc
+Ported Model Hash : e5b62c20603c20cd411a52c64665def3
+Ported Model Date : 1752491305 (2025/07/14)

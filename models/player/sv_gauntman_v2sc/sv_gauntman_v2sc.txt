@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sv_gauntman_v2
+Source Model Hash : aee4999229fe55d2152575570f974e60
+Source Model Date : 1583743998 (2020/03/09)
+
+Ported Model Name : sv_gauntman_v2sc
+Ported Model Hash : 69f0bc85394df739ce1da98a02fcf884
+Ported Model Date : 1752492354 (2025/07/14)

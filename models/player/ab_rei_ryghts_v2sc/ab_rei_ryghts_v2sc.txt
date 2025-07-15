@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ab_rei_ryghts_v2
+Source Model Hash : 0141bf3ce90440c47769a305cf1410a8
+Source Model Date : 1582155212 (2020/02/19)
+
+Ported Model Name : ab_rei_ryghts_v2sc
+Ported Model Hash : e2011fa50197137bfaf4e8fb05733815
+Ported Model Date : 1752491329 (2025/07/14)

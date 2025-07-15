@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ted
+Source Model Hash : db3736c911be47be7cfc933f3c648d9b
+Source Model Date : 1710008792 (2024/03/09)
+
+Ported Model Name : ted_v1sc
+Ported Model Hash : b47ee13ac33e40e00529e1d92923bd02
+Ported Model Date : 1752492398 (2025/07/14)

@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : broly
+Source Model Hash : a72caf5a582ab9856be6895f2cb440d0
+Source Model Date : 1579695377 (2020/01/22)
+
+Ported Model Name : broly_v1sc
+Ported Model Hash : 185425ae9f55d07df212c47ea504bf24
+Ported Model Date : 1752491448 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pn_niku
+Source Model Hash : 70cfcf59b83cfb6e4556d8d7cd09b522
+Source Model Date : 1587678326 (2020/04/23)
+
+Ported Model Name : pn_niku_v1sc
+Ported Model Hash : d4b56ee7dc1508268262b1cec6e0dabb
+Ported Model Date : 1752492161 (2025/07/14)

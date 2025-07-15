@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hololive_fubuki_c1
+Source Model Hash : 5d6e57a9783cfcb3d1c60a91e8fa8b79
+Source Model Date : 1690142727 (2023/07/23)
+
+Ported Model Name : holo_fubuki_c1_v1sc
+Ported Model Hash : 2b32173f62cdc940e6d1ec4a4facbfba
+Ported Model Date : 1752491815 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rheeno
+Source Model Hash : 20ea4062eb9657ebe5917189f2b31af9
+Source Model Date : 1696052597 (2023/09/29)
+
+Ported Model Name : rheeno_v1sc
+Ported Model Hash : 505f68f7b49f2faeaa834acdc8f8df7b
+Ported Model Date : 1752492215 (2025/07/14)

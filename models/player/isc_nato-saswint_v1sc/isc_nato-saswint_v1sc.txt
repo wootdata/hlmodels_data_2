@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : isc_nato-saswinter
+Source Model Hash : ded1d7e91c4c21bfa11126114d59b830
+Source Model Date : 1676172880 (2023/02/11)
+
+Ported Model Name : isc_nato-saswint_v1sc
+Ported Model Hash : ef5253f6feb0a29c3109a78d2881406a
+Ported Model Date : 1752491852 (2025/07/14)

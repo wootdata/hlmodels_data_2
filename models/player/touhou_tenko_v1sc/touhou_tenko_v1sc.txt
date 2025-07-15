@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_tenko
+Source Model Hash : 6475c6bc1ebb586077c80763c1c9df36
+Source Model Date : 1456263880 (2016/02/23)
+
+Ported Model Name : touhou_tenko_v1sc
+Ported Model Hash : d73fb15e5bd61f8c783dac9ef2c2fa58
+Ported Model Date : 1752492449 (2025/07/14)

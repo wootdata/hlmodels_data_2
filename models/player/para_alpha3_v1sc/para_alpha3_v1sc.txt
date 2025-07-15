@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : para_alpha3
+Source Model Hash : cec7c266f638c6da1b81c7a9a6ac71cd
+Source Model Date : 1265724131 (2010/02/09)
+
+Ported Model Name : para_alpha3_v1sc
+Ported Model Hash : 66ea08321de713b7f36acb8941f789a3
+Ported Model Date : 1752492144 (2025/07/14)

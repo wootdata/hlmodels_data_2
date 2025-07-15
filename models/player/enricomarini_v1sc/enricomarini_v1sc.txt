@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : enricomarini
+Source Model Hash : d2f7d6a00bc05d5aaa14d13dab6bb7c1
+Source Model Date : 1584082661 (2020/03/12)
+
+Ported Model Name : enricomarini_v1sc
+Ported Model Hash : 7a258b39497cc4594d0cee8fb3d70806
+Ported Model Date : 1752491634 (2025/07/14)

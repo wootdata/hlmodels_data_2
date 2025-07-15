@@ -1,0 +1,18 @@
+Mystery Date   - We are tired of seeing all the naked Women on HL & Wonswap, so Heres one  for the girls.  A Politacally correct Male.
+
+ Note:  If this MDL is removed from Wonswap then all nude Females must be removed also or is Wonswap a bunch of Sexist Pigs. The women who play have a right to the same. 
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mysterydate
+Source Model Hash : 8c456a109e16ff19a38b6b8c06b6003a
+Source Model Date : 1590134835 (2020/05/22)
+
+Ported Model Name : mysterydate_v1sc
+Ported Model Hash : 799c13e3faee78f6744b0827d4618ef1
+Ported Model Date : 1752492057 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : littlepip
+Source Model Hash : ea97d14c4a1ce8945906d69b543ddbb5
+Source Model Date : 1607518999 (2020/12/09)
+
+Ported Model Name : littlepip_v1sc
+Ported Model Hash : 4dfab179b6e163787710d4615b98d163
+Ported Model Date : 1752491954 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kung-fu
+Source Model Hash : b867efafc99371344977586af6a4a625
+Source Model Date : 1429484069 (2015/04/19)
+
+Ported Model Name : kung-fu_v1sc
+Ported Model Hash : 902343347160123870f5e3f7a84a7718
+Ported Model Date : 1752491912 (2025/07/14)

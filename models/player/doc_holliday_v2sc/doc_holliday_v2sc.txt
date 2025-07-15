@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : doc_holliday_v2
+Source Model Hash : 938048c0dbddf6a18c4593083a6006a4
+Source Model Date : 1591300964 (2020/06/04)
+
+Ported Model Name : doc_holliday_v2sc
+Ported Model Hash : f0d983336ad2fb377eac9fb6b28c441f
+Ported Model Date : 1752491610 (2025/07/14)

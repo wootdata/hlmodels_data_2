@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rokivulovic
+Source Model Hash : a086d34f441e899af7e61ec8df7393ef
+Source Model Date : 1640900150 (2021/12/30)
+
+Ported Model Name : rokivulovic_v1sc
+Ported Model Hash : 3976c90a798d770b2fbdcc3cff871813
+Ported Model Date : 1752492221 (2025/07/14)

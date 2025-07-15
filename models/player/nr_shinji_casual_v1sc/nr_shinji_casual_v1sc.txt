@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nr_shinji_casual
+Source Model Hash : c0274342fbc7d3338463015c8ee417ed
+Source Model Date : 1475457063 (2016/10/02)
+
+Ported Model Name : nr_shinji_casual_v1sc
+Ported Model Hash : e8f3f2879573bc642f9424b2377d4be3
+Ported Model Date : 1752492103 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spades_tekker_final
+Source Model Hash : 00ec5b9918e0b7a06ecdc34cb254c74e
+Source Model Date : 1269933147 (2010/03/30)
+
+Ported Model Name : spades_tekker_f_v1sc
+Ported Model Hash : ffde95f5c76d3c8fb68ad826049d830e
+Ported Model Date : 1752492305 (2025/07/14)

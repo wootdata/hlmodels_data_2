@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spforce_v2
+Source Model Hash : 409935f2dc3c3e6092a514cf696d1768
+Source Model Date : 1540690818 (2018/10/27)
+
+Ported Model Name : spforce_v2sc
+Ported Model Hash : ea8bcdaa061755331affc268b14ef09d
+Ported Model Date : 1752492308 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cop
+Source Model Hash : 9d0ff4b6f1a72d8eca62fb58f66828cf
+Source Model Date : 1268404010 (2010/03/12)
+
+Ported Model Name : cop_v1sc
+Ported Model Hash : 7101ae532ac7539710f098317ed11d0e
+Ported Model Date : 1752491527 (2025/07/14)

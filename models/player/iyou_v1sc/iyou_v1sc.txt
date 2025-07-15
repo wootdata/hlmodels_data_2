@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : iyou
+Source Model Hash : b04c0fc04e6edeb1a228b3d19db13d12
+Source Model Date : 1239049566 (2009/04/06)
+
+Ported Model Name : iyou_v1sc
+Ported Model Hash : e9cff2bb90bab7ba3bd3f95d00689002
+Ported Model Date : 1752491854 (2025/07/14)

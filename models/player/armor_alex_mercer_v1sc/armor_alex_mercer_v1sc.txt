@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : armor_alex_mercer
+Source Model Hash : ab3bdc0b860bc6681bf48b92424fd020
+Source Model Date : 1545888556 (2018/12/26)
+
+Ported Model Name : armor_alex_mercer_v1sc
+Ported Model Hash : 0d3112ef2f5de7095bce05bc7c335904
+Ported Model Date : 1752491377 (2025/07/14)

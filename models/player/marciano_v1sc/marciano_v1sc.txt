@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : marciano
+Source Model Hash : dfb7c3c70603bb77869e484ee7450a9b
+Source Model Date : 1511019031 (2017/11/18)
+
+Ported Model Name : marciano_v1sc
+Ported Model Hash : fa35008083ef08e218f56ba1a630b39a
+Ported Model Date : 1752491985 (2025/07/14)

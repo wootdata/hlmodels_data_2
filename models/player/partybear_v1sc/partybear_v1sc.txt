@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : partybear
+Source Model Hash : dc1475e2bdb0a9c7effbb9264ec4cb1b
+Source Model Date : 1454442521 (2016/02/02)
+
+Ported Model Name : partybear_v1sc
+Ported Model Hash : 82453c57f8b2224a3612a966f9b6658f
+Ported Model Date : 1752492148 (2025/07/14)
