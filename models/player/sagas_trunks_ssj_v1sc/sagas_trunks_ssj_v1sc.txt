@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sagas_trunks_ssj
+Source Model Hash : 71c5daa006b6c4866ca817bfbb60aa87
+Source Model Date : 1753108256 (2025/07/21)
+
+Ported Model Name : sagas_trunks_ssj_v1sc
+Ported Model Hash : ea2f7382d4b43d24c18ad2c04a43c50d
+Ported Model Date : 1753306560 (2025/07/23)
